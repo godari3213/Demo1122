@@ -1,0 +1,556 @@
+<http-page executeResourcesDynamically="false"
+    name="/TestMeApp/loginhere.htm" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    slaProfileEnabled="false" thinkTime="13953"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="242753f2-cc4c-43fc-b837-e537df2b23a0">
+    <embedded-action>9bde0174-a642-4407-8d74-c28bb1255873</embedded-action>
+    <embedded-action>595695e7-72f5-4d4b-b1dd-ee9e1204b9be</embedded-action>
+    <embedded-action>39bba0b0-c5f0-40d6-9881-cfab2c4453a3</embedded-action>
+    <embedded-action>bf07a4fb-1467-4e6b-96f5-ba6198840d46</embedded-action>
+    <embedded-action>3b884771-3673-44e8-bd6b-bb072e3a8031</embedded-action>
+    <embedded-action>5051ef26-d76f-4630-a74e-4fa18819831d</embedded-action>
+    <embedded-action>7a6e888c-5808-4a98-92df-d0cad898e648</embedded-action>
+    <embedded-action>2541709e-f6fa-4cfa-a776-1b5b7ee8841f</embedded-action>
+    <embedded-action>2d499848-b312-4583-8aab-ef092e06217c</embedded-action>
+    <embedded-action>98395cfe-ec94-4be6-8641-ab04a770a3fc</embedded-action>
+    <embedded-action>3ae18809-f180-48cf-8e7d-ccd5aaa86c44</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_242753f2-cc4c-43fc-b837-e537df2b23a0.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/TestMeApp/loginhere.htm"
+    path="/TestMeApp/loginhere.htm" postCharset="iso-8859-1"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="200"
+    refererUid="7bbdb422-479d-415d-baad-b053fdf81a4b"
+    responseSize="4680" serverUid="lkmdemoaut.accenture.com"
+    slaProfileEnabled="false" uid="9bde0174-a642-4407-8d74-c28bb1255873" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[dXNlck5hbWU9Z2ZkaGdzZiZwYXNzd29yZD0ke0F1dG9QYXNzd29yZF8zfSZMb2dpbj1Mb2dpbg==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_9bde0174-a642-4407-8d74-c28bb1255873.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9bde0174-a642-4407-8d74-c28bb1255873.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="userName"
+        recordRawValue="gfdhgsf" separator="=" value="gfdhgsf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="password"
+        recordRawValue="${AutoPassword_3}" separator="="
+        value="${AutoPassword_3}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="Login"
+        recordRawValue="Login" separator="=" value="Login" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="Origin" value="https://lkmdemoaut.accenture.com"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Origin: https://lkmdemoaut.accenture.com&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+Content-Type: text/html;charset=ISO-8859-1&#xd;
+Content-Language: en-US&#xd;
+Content-Length: 4680&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorOccurence="1" extractorRegExp="false" htmlType="2"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;152767-1645638169208&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/styles/bootstrap.css"
+    path="/TestMeApp/styles/bootstrap.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="595695e7-72f5-4d4b-b1dd-ee9e1204b9be" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_595695e7-72f5-4d4b-b1dd-ee9e1204b9be</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_595695e7-72f5-4d4b-b1dd-ee9e1204b9be.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Wed, 23 Feb 2022 17:42:49 GMT"/>
+    <header name="If-None-Match" value="W/&quot;152767-1645638169208&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"152767-1645638169208"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;329-1551329884000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/styles/back.css"
+    path="/TestMeApp/styles/back.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="39bba0b0-c5f0-40d6-9881-cfab2c4453a3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_39bba0b0-c5f0-40d6-9881-cfab2c4453a3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_39bba0b0-c5f0-40d6-9881-cfab2c4453a3.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:04 GMT"/>
+    <header name="If-None-Match" value="W/&quot;329-1551329884000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"329-1551329884000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;508-1645641793353&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/styles/backalt.css"
+    path="/TestMeApp/styles/backalt.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="bf07a4fb-1467-4e6b-96f5-ba6198840d46" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_bf07a4fb-1467-4e6b-96f5-ba6198840d46</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bf07a4fb-1467-4e6b-96f5-ba6198840d46.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Wed, 23 Feb 2022 18:43:13 GMT"/>
+    <header name="If-None-Match" value="W/&quot;508-1645641793353&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"508-1645641793353"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;1388-1551928920000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/styles/custom.css"
+    path="/TestMeApp/styles/custom.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="3b884771-3673-44e8-bd6b-bb072e3a8031" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3b884771-3673-44e8-bd6b-bb072e3a8031</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3b884771-3673-44e8-bd6b-bb072e3a8031.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 07 Mar 2019 03:22:00 GMT"/>
+    <header name="If-None-Match" value="W/&quot;1388-1551928920000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"1388-1551928920000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;37284-1551329884000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/styles/jquery-ui/jquery-ui.css"
+    path="/TestMeApp/styles/jquery-ui/jquery-ui.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="5051ef26-d76f-4630-a74e-4fa18819831d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5051ef26-d76f-4630-a74e-4fa18819831d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5051ef26-d76f-4630-a74e-4fa18819831d.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:04 GMT"/>
+    <header name="If-None-Match" value="W/&quot;37284-1551329884000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"37284-1551329884000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;84384-1551329884000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/scripts/jquery.min.js"
+    path="/TestMeApp/scripts/jquery.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304"
+    refererUid="9bde0174-a642-4407-8d74-c28bb1255873" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="7a6e888c-5808-4a98-92df-d0cad898e648" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7a6e888c-5808-4a98-92df-d0cad898e648</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7a6e888c-5808-4a98-92df-d0cad898e648.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:04 GMT"/>
+    <header name="If-None-Match" value="W/&quot;84384-1551329884000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"84384-1551329884000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="2"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;72084-1551329884000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/scripts/bootstrap.js"
+    path="/TestMeApp/scripts/bootstrap.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304"
+    refererUid="9bde0174-a642-4407-8d74-c28bb1255873" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="2541709e-f6fa-4cfa-a776-1b5b7ee8841f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2541709e-f6fa-4cfa-a776-1b5b7ee8841f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2541709e-f6fa-4cfa-a776-1b5b7ee8841f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:04 GMT"/>
+    <header name="If-None-Match" value="W/&quot;72084-1551329884000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"72084-1551329884000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;539419-1551329884000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/scripts/jquery-ui.js"
+    path="/TestMeApp/scripts/jquery-ui.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304"
+    refererUid="9bde0174-a642-4407-8d74-c28bb1255873" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="2d499848-b312-4583-8aab-ef092e06217c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2d499848-b312-4583-8aab-ef092e06217c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2d499848-b312-4583-8aab-ef092e06217c.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:04 GMT"/>
+    <header name="If-None-Match" value="W/&quot;539419-1551329884000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"539419-1551329884000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="4"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;29391-1551329884000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/scripts/jquery.form-validator.min.js"
+    path="/TestMeApp/scripts/jquery.form-validator.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304"
+    refererUid="9bde0174-a642-4407-8d74-c28bb1255873" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="98395cfe-ec94-4be6-8641-ab04a770a3fc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_98395cfe-ec94-4be6-8641-ab04a770a3fc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_98395cfe-ec94-4be6-8641-ab04a770a3fc.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:04 GMT"/>
+    <header name="If-None-Match" value="W/&quot;29391-1551329884000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"29391-1551329884000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="5"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" eTag="W/&quot;6087-1551329880000&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/TestMeApp/img/logofirstlogo.png"
+    path="/TestMeApp/img/logofirstlogo.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@test@me@app_recording/%resources%/recorded-artifacts/242753f2-cc4c-43fc-b837-e537df2b23a0.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="lkmdemoaut.accenture.com" slaProfileEnabled="false"
+    uid="3ae18809-f180-48cf-8e7d-ccd5aaa86c44" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3ae18809-f180-48cf-8e7d-ccd5aaa86c44</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3ae18809-f180-48cf-8e7d-ccd5aaa86c44.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=8DF4C2B95AC52BB62AD46DF84883A7F2; s_ecid=MCMID%7C54298485511289778842609248548650324654; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19329%7CvVersion%7C5.2.0%7CMCMID%7C54298485511289778842609248548650324654%7CMCAAMLH-1670578255%7C12%7CMCAAMB-1670578255%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1669980656s%7CNONE%7CMCAID%7CNONE"/>
+    <header name="Host" value="lkmdemoaut.accenture.com"/>
+    <header name="If-Modified-Since" value="Thu, 28 Feb 2019 04:58:00 GMT"/>
+    <header name="If-None-Match" value="W/&quot;6087-1551329880000&quot;"/>
+    <header name="Referer" value="https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm"/>
+    <header name="sec-ch-ua" value="&quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;108&quot;, &quot;Google Chrome&quot;;v=&quot;108&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/526.11 (KHTML, like Gecko) Version/4.0 Safari/526.12.2"/>
+    <responseHeaders>HTTP/1.1 304 &#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Strict-Transport-Security: max-age=31536000;includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+vary: Origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Expose-Headers: Access-Control-Allow-Origin,Access-Control-Allow-Credentials&#xd;
+ETag: W/"6087-1551329880000"&#xd;
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' *.accenture.com; script-src ?self? ?unsafe-inline? ?unsafe-eval? cdn.appdynamics.com; img-src 'self' *.accenture.com data: col.eum-appdynamics.com; connect-src ?self? *.accenture.com col.eum-appdynamics.com; upgrade-insecure-requests; block-all-mixed-content;&#xd;
+Pragma: no-cache&#xd;
+Date: Tue, 20 Dec 2022 03:44:39 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

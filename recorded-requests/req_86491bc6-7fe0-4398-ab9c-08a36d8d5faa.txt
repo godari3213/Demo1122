@@ -1,0 +1,18 @@
+GET https://demowebshop.tricentis.com:443/wishlist HTTP/1.1
+Host: demowebshop.tricentis.com
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://demowebshop.tricentis.com/login
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _mkto_trk=id:470-GZN-442&token:_mch-tricentis.com-1665048458523-43150; _gcl_au=1.1.1560123694.1666090407; _fbp=fb.1.1666090408662.2100569943; _biz_uid=daeff76540fa451dba66facd352c9fdb; _biz_flagsA=%7B%22Version%22%3A1%2C%22Mkto%22%3A%221%22%2C%22ViewThrough%22%3A%221%22%2C%22XDomain%22%3A%221%22%7D; Nop.customer=acd22fc5-7a74-47ad-9cb2-fdd40d4d8660; mf_user=5738638c4e209d07fb4935c4ccd56b66|; _biz_nA=11; _biz_pendingA=%5B%5D; _ga_489D1QT6C1=GS1.1.1670828966.8.0.1670828972.0.0.0; _ga_8YKD435ZJX=GS1.1.1671097197.6.1.1671097361.0.0.0; _ga=GA1.2.1561122332.1665047899; _gid=GA1.2.998243137.1671422828; ARRAffinity=754c43f3fb666b4689fd8452291c08520e941e1737ad17b31babd87059cc27ae; ARRAffinitySameSite=754c43f3fb666b4689fd8452291c08520e941e1737ad17b31babd87059cc27ae; __utma=78382081.1561122332.1665047899.1671089402.1671428921.4; __utmc=78382081; __utmz=78382081.1671428921.4.4.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmt=1; __utmb=78382081.4.10.1671428921
+

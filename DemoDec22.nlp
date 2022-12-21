@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=DemoDec22
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=723b3c37-c89d-4fb8-8bab-cc2105e157a9
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=false
+product.version=8.2.1
